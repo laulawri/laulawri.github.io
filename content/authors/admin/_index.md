@@ -46,23 +46,20 @@ education:
   - area: PhD Computer Science
     institution: University of Chicago
     date_start: 2022
-    date_end: 
-    summary: 
-    button:
-      text: 
-      url: 
+    date_end: ''
+    summary: ''
   - area: MSc Robotics
     institution: The École Polytechnique Fédérale de Lausanne
     date_start: 2019
     date_end: 2022
-    summary: 
+    summary: ''
   - area: BSc Mechanical Engineering
     institution: Massachusetts Institute of Technology
     date_start: 2012
     date_end: 2016
-    summary:
+    summary: ''
 work:
-  - position: 
+  - position: ''
     company_name: '' 
     company_url: ''
     company_logo: ''
@@ -74,7 +71,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: 
+  - name: ''
     items:
       - name: ''
         description: ''
@@ -108,7 +105,7 @@ awards:
     date: '2022-10-05'
     awarder: Swiss National Center for Competence in Robotics
     icon: 
-    summary: |
+    summary: ''
 
 ---
 
