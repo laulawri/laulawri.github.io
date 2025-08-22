@@ -62,69 +62,40 @@ education:
     date_end: 2016
     summary:
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: 
+    company_name: '' 
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: ''
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: ''
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 
     items:
-      - name: Python
+      - name: ''
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: ROS
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+        percent: ''
+        icon: ''
+  - name: ''
+    color: ''
+    color_border: ''
     items:
-      - name: Hiking
+      - name: ''
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        percent: ''
+        icon: ''
+      
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: French
+    percent: 25
+  - name: Spanish
     percent: 25
 
 # Awards.
@@ -143,4 +114,6 @@ awards:
 
 ## About Me
 
-xxxxxx
+I am currently a  Ph.D. candidate in Computer Science at the University of Chicago, working with Professor Sarah Sebo in the Human Robot Interaction Lab.
+
+I am interesting in exploring how social robots can be used in childhood education to create safe spaces for students. My current research investigates how to best use robots to teach social-emotional learning in ways that provide the most benefit to students and teachers alike.
