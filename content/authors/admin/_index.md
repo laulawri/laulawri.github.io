@@ -46,17 +46,16 @@ education:
   - area: PhD Computer Science
     institution: University of Chicago
     date_start: 2022
-    date_end: Anticipated completion ~2026
+    date_end: 
     summary: 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 
+      url: 
   - area: MSc Robotics
     institution: The École Polytechnique Fédérale de Lausanne
     date_start: 2019
     date_end: 2022
-    summary: |
-      Thesis: 
+    summary: 
   - area: BSc Mechanical Engineering
     institution: Massachusetts Institute of Technology
     date_start: 2012
