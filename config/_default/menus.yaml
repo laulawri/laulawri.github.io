@@ -22,6 +22,9 @@ main:
   - name: Projects
     url: projects/
     weight: 30
+  - name: Media
+    url: appearances/
+    weight: 35
   # - name: Teaching
   #   url: teaching/
   #   weight: 40

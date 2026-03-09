@@ -39,7 +39,7 @@ profiles:
 
 interests:
   - Human-Robot Interaction
-  - Robots for Childhood Education
+  - Robots in Childhood Education
   - Social Robots as "Safe Spaces"
 
 education:
@@ -59,12 +59,12 @@ education:
     date_end: 2016
     summary: ''
 work:
-  - position: ''
-    company_name: '' 
+  - position: 'Structures Engineer'
+    company_name: 'Boeing' 
     company_url: ''
     company_logo: ''
-    date_start: ''
-    date_end: ''
+    date_start: '2016'
+    date_end: '2019'
     summary: ''
 
 
@@ -87,13 +87,13 @@ skills:
         icon: ''
       
 
-languages:
-  - name: English
-    percent: 100
-  - name: French
-    percent: 25
-  - name: Spanish
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: French
+#     percent: 25
+#   - name: Spanish
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -111,6 +111,6 @@ awards:
 
 ## About Me
 
-I am currently a  Ph.D. candidate in Computer Science at the University of Chicago, working with Professor Sarah Sebo in the Human Robot Interaction Lab.
+I am currently pursuing a Ph.D. in Computer Science at the University of Chicago, working with Professor Sarah Sebo in the Human Robot Interaction Lab.
 
-I am interesting in exploring how social robots can be used in childhood education to create safe spaces for students. My current research investigates how to best use robots to teach social-emotional learning in ways that provide the most benefit to students and teachers alike.
+I am interested in exploring how social robots can be used in childhood education to create safe spaces for students. My current research investigates how to best use robots to teach social-emotional learning in ways that provide the most benefit to students and teachers alike.
