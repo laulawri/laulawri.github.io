@@ -63,8 +63,8 @@ work:
     company_name: 'Boeing' 
     company_url: ''
     company_logo: ''
-    date_start: '2016'
-    date_end: '2019'
+    date_start: 2016
+    date_end: 2019
     summary: ''
 
 
