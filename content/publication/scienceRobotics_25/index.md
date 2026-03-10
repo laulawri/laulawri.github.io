@@ -32,9 +32,9 @@ tags:
 - Robots in Education
 featured: true
 
-links:
-- name: Publisher Link
-  url: 'https://www.science.org/stoken/author-tokens/ST-2899/full'
+# links:
+# - name: Publisher Link
+#   url: 'https://www.science.org/stoken/author-tokens/ST-2899/full'
 
 url_pdf: 'https://laulawri.github.io/publication/scienceRobotics_25/scirobotics_adu5771.pdf'
 url_code: ''

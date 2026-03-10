@@ -40,9 +40,9 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: Publisher Link
-  url: https://ieeexplore.ieee.org/abstract/document/11217766
+# links:
+# - name: Publisher Link
+#   url: https://ieeexplore.ieee.org/abstract/document/11217766
 
 url_pdf: 'https://laulawri.github.io/publication/roman_25/ROMAN25_LLWright.pdf'
 url_code: ''
