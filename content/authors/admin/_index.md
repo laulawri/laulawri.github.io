@@ -70,21 +70,21 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: ''
-    items:
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
-  - name: ''
-    color: ''
-    color_border: ''
-    items:
-      - name: ''
-        description: ''
-        percent: ''
-        icon: ''
+# skills:
+#   - name: ''
+#     items:
+#       - name: ''
+#         description: ''
+#         percent: ''
+#         icon: ''
+#   - name: ''
+#     color: ''
+#     color_border: ''
+#     items:
+#       - name: ''
+#         description: ''
+#         percent: ''
+#         icon: ''
       
 
 # languages:
