@@ -55,7 +55,7 @@ education:
     summary: ''
   - area: BSc Mechanical Engineering
     institution: Massachusetts Institute of Technology
-    date_start: 2012-07-15
+    date_start: 2012-08-15
     date_end: 2016-06-15
     summary: ''
 work:
