@@ -45,26 +45,26 @@ interests:
 education:
   - area: PhD Computer Science
     institution: University of Chicago
-    date_start: 2022
+    date_start: 2022-09-01
     date_end: ''
     summary: ''
   - area: MSc Robotics
     institution: The École Polytechnique Fédérale de Lausanne
-    date_start: 2019
-    date_end: 2022
+    date_start: 2019-08-15
+    date_end: 2022-12-20
     summary: ''
   - area: BSc Mechanical Engineering
     institution: Massachusetts Institute of Technology
-    date_start: 2012
-    date_end: 2016
+    date_start: 2012-07-15
+    date_end: 2016-06-15
     summary: ''
 work:
   - position: 'Structures Engineer'
     company_name: 'Boeing' 
     company_url: ''
     company_logo: ''
-    date_start: 2016
-    date_end: 2019
+    date_start: 2016-07-15
+    date_end: 2019-07-15
     summary: ''
 
 
