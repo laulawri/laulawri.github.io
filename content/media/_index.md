@@ -17,7 +17,7 @@ sections:
         folders:
           - media
     design:
-      view: date-title-summary
+      view: article-grid
       fill_image: false
       columns: 3
 ---
