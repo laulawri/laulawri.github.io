@@ -12,7 +12,7 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-08-25T00:00:00Z'
 doi: '10.1109/RO-MAN63969.2025.11217766'
 
 # Schedule page publish date (NOT publication's date).
@@ -32,8 +32,9 @@ abstract: As robots become increasingly capable and widespread, they may be plac
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-  - Large Language Models
+tags: 
+  - 'Human-robot teams'
+  - 'Compliance'
 
 # Display this page in the Featured widget?
 featured: false
@@ -43,7 +44,7 @@ links:
 - name: Publisher Link
   url: https://ieeexplore.ieee.org/abstract/document/11217766
 
-url_pdf: ''
+url_pdf: 'https://laulawri.github.io/publication/roman_25/ROMAN25_LLWright.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,18 +65,17 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - ''
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ''
+slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -83,4 +83,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
