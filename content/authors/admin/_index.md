@@ -55,7 +55,7 @@ education:
   - area: MSc Robotics
     institution: The École Polytechnique Fédérale de Lausanne
     date_start: 2019-08-15
-    date_end: 2022-12-20
+    date_end: 2021-12-20
     summary: ''
   - area: BSc Mechanical Engineering
     institution: Massachusetts Institute of Technology
