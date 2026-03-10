@@ -26,6 +26,8 @@ role: PhD Student
 organizations:
   - name: University of Chicago Computer Science
     url: https://cs.uchicago.edu/people/lauren-wright/
+  - name: Human-Robot Interaction Lab
+    url: https://hri.cs.uchicago.edu/index.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,6 +37,8 @@ profiles:
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=eaxAc7MAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0002-3659-2530
 
 
 interests:
