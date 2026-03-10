@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Science Robotics"
+publication: "*Science Robotics*"
 publication_short: ""
 
 abstract: Reading fluency is a vital building block for developing literacy, yet the best way to practice fluency—reading aloud—can cause anxiety severe enough to inhibit literacy development in ways that can have an adverse effect on students through adulthood. One promising intervention to mitigate oral reading anxiety is to have children read aloud to a robot. Although observations in prior work have suggested that people likely feel more comfortable in the presence of a robot instead of a human, few studies have empirically demonstrated that people feel less anxious performing in front of a robot compared with a human or used objective physiological indicators to identify decreased anxiety. To investigate whether a robotic reading companion could reduce reading anxiety felt by children, we conducted a within-subjects study where children aged 8 to 11 years (n = 52) read aloud to a human and a robot individually while being monitored for physiological responses associated with anxiety. We found that children exhibited fewer physiological indicators of anxiety, specifically vocal jitter and heart rate variability, when reading to the robot compared with reading to a person. This paper provides strong evidence that a robot’s presence has an effect on the anxiety a person experiences while doing a task, offering justification for the use of robots in a wide-reaching array of social interactions that may be anxiety inducing.
@@ -32,9 +32,9 @@ tags:
 - Robots in Education
 featured: true
 
-# links:
-# - name: Publisher Link
-#   url: 'https://www.science.org/stoken/author-tokens/ST-2899/full'
+links:
+- name: Author Link
+  url: 'https://www.science.org/stoken/author-tokens/ST-2899/full'
 
 url_pdf: ''
 url_code: ''
