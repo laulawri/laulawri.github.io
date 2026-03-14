@@ -16,9 +16,9 @@ main:
   - name: News and Media
     url: media/
     weight: 30
-  - name: Projects
-    url: project/
-    weight: 35
+  # - name: Projects
+  #   url: project/
+  #   weight: 35
   # - name: Teaching
   #   url: teaching/
   #   weight: 40

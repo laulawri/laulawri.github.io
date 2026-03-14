@@ -43,18 +43,20 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Publisher Link
-#   url: https://ieeexplore.ieee.org/abstract/document/11217766
+links:
+- name: Supplementary Material
+  url: 'https://laulawri.github.io/content/publication/hri_26/supplementary.pdf'
+- name: OSF
+  url: 'https://osf.io/uqrwp/overview?view_only=c726a4d8a1e240b39f9fc7a0de76efc8'
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/SeboLab/Robot_SEL_Tutor'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://laulawri.github.io/content/publication/hri_26/video.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
